@@ -61,6 +61,11 @@ header{
     color: var(--main-color);
     border-bottom: 2px solid var(--main-color);
 }
+.nav-content{
+    display: flex;
+    align-items: center;
+}
+
 .nav-content a{
     display: inline-block;
     font-size: 23px;
